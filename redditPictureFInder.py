@@ -2,8 +2,8 @@ import Tkinter, tkFileDialog, praw, urllib
 from Tkinter import *
 
 user_agent = ("NaturePhotoGrabber Bot 0.1")
-client_id = ("GIBQVGfUC2mtAA")
-client_secret = ("a7Mo43y0-vIFojIF_Buw6Ea0ZeU")
+#client_id = (CLIENT ID GOES HERE)
+#client_secret = (CLIENT SECRET GOES HERE)
 
 def getImages(subName, numImages, saveDir):
 	#get a reddit instance
